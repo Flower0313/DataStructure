@@ -18,6 +18,7 @@ public class gitTest {
         System.out.println("fix in master in order to conflict");
 
         System.out.println("hhhhh");
+        System.out.println("fix in dev in order to conflict");
     }
 }
 
