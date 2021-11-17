@@ -21,6 +21,8 @@ public class gitTest {
         System.out.println("fix in dev in order to conflict");
         System.out.println("fixed in github")
 
+
+        System.out.println("在dev中进行代码修复");
     }
 }
 
