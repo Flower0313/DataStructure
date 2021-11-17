@@ -15,7 +15,9 @@ public class gitTest {
         System.out.println("git test1!");
         System.out.println("git test1!");
 
-        System.out.println("fix in dev");
+        System.out.println("fix in master in order to conflict");
+
+        System.out.println("hhhhh");
     }
 }
 
