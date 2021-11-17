@@ -8,8 +8,14 @@ package git;
  */
 public class gitTest {
     public static void main(String[] args) {
+        /*
+        * 右下角显示了在哪个分支
+        *
+        * */
         System.out.println("git test1!");
         System.out.println("git test1!");
+
+        System.out.println("fix in dev");
     }
 }
 
